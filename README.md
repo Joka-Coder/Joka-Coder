@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Joka-Coder
+- 👀 I’m interested in Computer Science(in General), C#.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on none for now.
+- 📫 How to reach me : Discord:Jweboman#6333
